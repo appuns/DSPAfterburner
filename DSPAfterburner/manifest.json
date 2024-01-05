@@ -1,0 +1,9 @@
+{
+  "name": "DSPAfterburner",
+  "version_number": "0.0.1",
+  "website_url": "https://github.com/appuns/DSPAfterburner",
+  "description": "Want to fly faster in flight mode too!. This don't affect achievements or milestones.飛行モードでももっと速く飛びたい！。実績やマイルストーンには影響しません。",
+  "dependencies": [
+    "xiaoye97-BepInEx-5.4.17"
+  ]
+}
